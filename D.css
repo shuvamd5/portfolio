@@ -52,6 +52,7 @@ a{
 	letter-spacing: 0.2em;
 	flex: 1 1 23ch;
 	margin: 0 auto;
+	border: 1px solid red
 }
 .name p{
 	width: 19ch;
